@@ -1,4 +1,4 @@
-# Heart-Disease-Investigation-using-Python-libraries
+# Heart disease investigation using Python libraries
 
 The following project is based on heart disease investigation using pandas, matplotlib and seaborn Python.
 
